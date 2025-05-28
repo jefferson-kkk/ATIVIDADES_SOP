@@ -1,0 +1,11 @@
+Cinco áreas de configuração críticas em um sistema operacional que administradores ou usuários avançados precisam conhecer são:
+
+Gerenciamento de usuários e permissões: Controlar quem pode acessar o sistema e quais ações podem executar para garantir segurança e organização.
+
+Configuração de rede: Ajustar conexões, firewalls, endereços IP e permissões de acesso para garantir comunicação segura e eficiente.
+
+Atualizações do sistema: Manter o sistema e softwares atualizados para corrigir falhas, melhorar desempenho e aumentar a segurança.
+
+Gerenciamento de armazenamento: Organizar discos, particionar unidades e monitorar espaço disponível para otimizar a performance e evitar problemas de falta de espaço.
+
+Serviços e processos de inicialização: Configurar quais programas e serviços iniciam junto com o sistema para melhorar a velocidade de boot e liberar recursos para tarefas importantes.

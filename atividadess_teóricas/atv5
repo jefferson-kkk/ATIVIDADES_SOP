@@ -1,0 +1,14 @@
+O gerenciamento de usuários e permissões em sistemas operacionais é o processo que controla quem pode acessar e modificar arquivos, pastas e recursos do sistema. Isso é importante para garantir a segurança e a organização, evitando que usuários não autorizados façam alterações indevidas.
+
+No Windows, que é um sistema de código fechado, as permissões são gerenciadas principalmente pelo sistema de arquivos NTFS. Ele permite definir permissões detalhadas para arquivos e pastas, como leitura, escrita e execução, podendo ser configuradas para usuários e grupos específicos. Além disso, o Windows utiliza contas de usuário com diferentes níveis de privilégio, como administrador e usuário comum, para controlar o acesso.
+
+No Linux, que é um sistema de código aberto, as permissões são baseadas em um modelo simples de três tipos de usuários: o dono do arquivo, o grupo e os outros. Cada um pode ter permissões de leitura (r), escrita (w) e execução (x), representadas por símbolos (rwx). Por exemplo, um arquivo pode ter permissão de leitura e escrita para o dono, apenas leitura para o grupo e nenhuma para os outros. Esse modelo é aplicado a arquivos e diretórios e pode ser ajustado com comandos específicos.
+
+Em resumo, o Windows oferece um sistema de permissões mais detalhado e complexo, com controle via interface gráfica e políticas de segurança avançadas, enquanto o Linux usa um modelo mais simples e direto, que pode ser facilmente configurado via linha de comando, oferecendo flexibilidade e transparência.
+
+
+
+
+
+
+

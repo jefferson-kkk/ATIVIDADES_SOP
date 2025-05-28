@@ -1,0 +1,13 @@
+Para aumentar a segurança de um sistema operacional e proteger os dados, usuários e administradores podem adotar várias intervenções e métodos de prevenção, como:
+
+Atualizações regulares: Manter o sistema operacional e os programas sempre atualizados para corrigir falhas e vulnerabilidades.
+
+Uso de antivírus e antimalware: Instalar e manter programas de segurança que detectam e eliminam ameaças.
+
+Senhas fortes e autenticação múltipla: Criar senhas difíceis de adivinhar e, quando possível, usar autenticação em duas etapas para dificultar acessos não autorizados.
+
+Controle de permissões: Definir quem pode acessar ou modificar arquivos e programas, limitando privilégios apenas ao necessário.
+
+Backup de dados: Fazer cópias de segurança regularmente para evitar perda de informações em caso de ataque ou falha.
+
+Um firewall nativo do sistema operacional funciona como uma barreira que monitora e controla o tráfego de entrada e saída da rede, bloqueando acessos suspeitos ou não autorizados. Ele ajuda a proteger o computador contra invasões e ataques externos, filtrando as conexões que podem ou não passar, aumentando a segurança geral do sistema.

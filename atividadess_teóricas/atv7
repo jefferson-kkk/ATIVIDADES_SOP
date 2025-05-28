@@ -1,0 +1,5 @@
+a) Unidades e pastas em rede são espaços de armazenamento compartilhados em outros computadores dentro de uma rede, usados para facilitar o acesso e a troca de arquivos entre usuários.
+
+b) Compartilhamento é disponibilizar esses recursos para outros na rede, e acesso é a permissão para usar esses recursos, controlada por permissões.
+
+c) Mapeamento de unidade de rede é criar um atalho que conecta uma pasta ou unidade compartilhada, fazendo-a aparecer como uma unidade local no computador, facilitando o acesso.

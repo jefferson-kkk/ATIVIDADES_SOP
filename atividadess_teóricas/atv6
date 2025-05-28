@@ -1,0 +1,3 @@
+Quando o computador é ligado, ele faz um autoteste (POST) para verificar o hardware, depois carrega o firmware (BIOS ou UEFI) que prepara o sistema para iniciar. Em seguida, o carregador de boot (bootloader) é executado para carregar o sistema operacional na memória. O sistema então inicia seus processos e, por fim, mostra a interface para o usuário.
+
+O processo é parecido em sistemas de código aberto (como Linux) e fechado (como Windows), mas o Linux usa bootloaders mais flexíveis, como o GRUB, que permitem escolher sistemas diferentes, enquanto o Windows usa um bootloader próprio mais simples e focado em seu sistema.
